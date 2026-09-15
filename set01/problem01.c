@@ -3,6 +3,6 @@
 #include <stdio.h>
 int main() 
 {
-printf("Harshini") ;
-return 0;
+   printf("Harshini") ;
+   return 0;
 }
