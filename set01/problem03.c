@@ -1,4 +1,4 @@
-##Write a program to print your name, age, height, weight and place of birth.
+//Write a c program to print your name, age, height, weight and place of birth.
 
 #include <stdio.h>
 int main()
