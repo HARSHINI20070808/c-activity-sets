@@ -1,4 +1,4 @@
-##Write a program to calculate AREA OF CIRCLE.
+//Write a c program to calculate AREA OF CIRCLE.
 
 #include <stdio.h>
 struct circle
